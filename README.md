@@ -163,17 +163,4 @@ Every algorithm is first implemented mathematically from scratch and then compar
 
 ---
 
-# 🚀 Future Repositories
-
-After completing this repository, I plan to continue with:
-
-- Deep Learning From Scratch
-- Computer Vision
-- Natural Language Processing
-- Reinforcement Learning
-- Large Language Models (LLMs)
-- MLOps
-
----
-
 ## ⭐ If you found this repository helpful, consider giving it a star!
